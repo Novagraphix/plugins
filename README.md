@@ -20,7 +20,7 @@ $().ytOverlay({
 > ID of the movie that has to be embedded.
 
 #### trigger (optional - default trailer)
-> ID of selector thtat will trigger the overlay.
+> ID of selector that will trigger the overlay.
 
 #### top, right, bottom, left (optional - default 100px)
 > Margin of Youtube video
